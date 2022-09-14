@@ -200,7 +200,7 @@ body {
 
 /* Card */
 #summary-card {
-  margin: 2rem 0;
+  margin: 2rem;
   background-color: var(--clr-neu-very-pale-blue);
   max-width: 38rem;
   min-width: 32rem;
